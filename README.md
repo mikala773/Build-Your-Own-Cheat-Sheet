@@ -19,8 +19,8 @@ This project focuses on building a reference cheat cheet to help me build more w
 
 ## Status
 - Will update as I learn ways to enhance the design.
-- Now that I know more about colors palettes, I will edit the colors of this website.
-- I will make responsive.
+- Now that I know more about color palettes, I will edit the colors of this website.
+- I will make the website responsive.
 - Will add more topics to the content of the website as I learn more concepts.
 
 ## Languages
