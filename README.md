@@ -18,6 +18,7 @@ This project focuses on building a reference cheat sheet to help me build more w
 
 
 ## Status
+- Incomplete
 - Will update as I learn ways to enhance the design.
 - Now that I know more about color palettes, I will edit the colors of this website.
 - I will make the website responsive.
