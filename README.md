@@ -6,7 +6,7 @@ https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-develo
 
 Welcome to the Challenge Project: Build Your Own Cheat Sheet project, created as part of the Codecademy curriculum for the Full-Stack Engineering Path.
 
-This project focuses on building a reference cheat cheet to help me build more websited in the future. This is one of the first websited I created.
+This project focuses on building a reference cheat cheet to help me build more websited in the future. This is one of the first websites I created.
 
 ## Features
 
