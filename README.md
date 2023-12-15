@@ -16,9 +16,6 @@ This project focuses on building a reference cheat cheet to help me build more w
 
 - **Background-image** : I set a background image for the entire page.
 
-## View Site
-
-_____
 
 ## Status
 - Will update as I learn ways to enhance the design.
